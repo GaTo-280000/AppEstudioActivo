@@ -1,1 +1,1 @@
-# AppEstudioActivo
+EstudioActivo
